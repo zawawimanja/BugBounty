@@ -1,0 +1,5 @@
+
+
+Copy link confirmation & paste at  different browser.
+
+ Edge browser makes a DNS lookup request. And when my target sees this request it thinks that the user clicked and made a HTTP request, hence email gets verified.
